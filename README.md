@@ -1,1 +1,1 @@
-# AMP-Git Project 1
+# Project 1
