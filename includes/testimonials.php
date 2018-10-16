@@ -34,18 +34,18 @@
       </div>
     </amp-carousel>-->
     
-    <amp-carousel class="carousel1" <?php /*?>layout="responsive"<?php */?> height="450" width="700" style="margin:0 auto; display:block;" type="slides">
+    <amp-carousel class="carousel1" layout="responsive" height="450" width="700" style="margin:0 auto; display:block;" type="slides">
        <div class="slide align-center">
           <amp-img src="img/testimonial-1.jpg" <?php /*?>layout="responsive"<?php */?> width="200" height="200" alt="Lorem Ipsum"></amp-img>
-    		<amp-fit-text <?php /*?>layout="responsive"<?php */?> width="500" height="120" style="padding:0 60px; margin:0 auto; display:block;"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specibook. It has survived not only five centuries, but also the leap into electronic typesetting. unchanged.</p><span>Author 1</span></amp-fit-text>
+    		<amp-fit-text layout="responsive" width="500" height="120" style="padding:0 10px; margin:0 auto; display:block;"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specibook. It has survived not only five centuries, but also the leap into electronic typesetting. unchanged.</p><span>Author 1</span></amp-fit-text>
   	  </div>
        <div class="slide align-center">
          <amp-img src="img/testimonial-1.jpg" <?php /*?>layout="responsive"<?php */?> width="200" height="200" alt="Dummy text"></amp-img>
-         <amp-fit-text <?php /*?>layout="responsive"<?php */?> width="500" height="120" style="padding:0 60px; margin:0 auto; display:block;"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specibook. It has survived not only five centuries, but also the leap into electronic typesetting. unchanged.</p><span>Author 2</span></amp-fit-text>
+         <amp-fit-text layout="responsive" width="500" height="120" style="padding:0 10px; margin:0 auto; display:block;"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specibook. It has survived not only five centuries, but also the leap into electronic typesetting. unchanged.</p><span>Author 2</span></amp-fit-text>
        </div>
        <div class="slide align-center">
          <amp-img src="img/testimonial-1.jpg" <?php /*?>layout="responsive"<?php */?> width="200" height="200" alt="Dummy text"></amp-img>
-         <amp-fit-text <?php /*?>layout="responsive"<?php */?> width="500" height="120" style="padding:0 60px; margin:0 auto; display:block;"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specibook. It has survived not only five centuries, but also the leap into electronic typesetting. unchanged.</p><span>Author 3</span></amp-fit-text>
+         <amp-fit-text layout="responsive" width="500" height="120" style="padding:0 10px; margin:0 auto; display:block;"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specibook. It has survived not only five centuries, but also the leap into electronic typesetting. unchanged.</p><span>Author 3</span></amp-fit-text>
        </div>
      </amp-carousel>
     

@@ -7,51 +7,8 @@
      <meta name="description" content="{% if doc.description %}{{doc.description}} – {% endif %}Web development Services | Mobile App Development | Business Intelligence Services | Virtual Assistant &amp; SEO Services">
      <title>Eluminous Technologies Pvt Ltd</title>
      <link rel="icon" href="/static/img/amp_favicon.png">
-     <link rel="canonical" href="https://eluminoustechnologies.com">
-     <link rel="icon" href="images/favicon.ico" />
-     <link rel="apple-touch-icon" href="images/favicon-144.ico" />
-     <link href="https://fonts.googleapis.com/css?family=Roboto:200,300,400,500,700" rel="stylesheet">
-     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet" />
-     <style amp-custom>
-     	<?php readfile( getcwd() . "/css/stylesheet.css"); ?>
-		section h2.white-text, section h6.white-text, #what-we-do .card h3.white-text{color:#fff;}
-		#placeholderbox{background:#fefefe;}
-		@media (max-width:992px){
-			#header .container, #what-we-do .container, .container{max-width:none;}
-			.social{margin-right:15px;}
-			
-		}
-		@media (max-width:767px){
-			amp-video{margin:10px auto;}
-			
-		}
-		.carousel1{margin:0 auto; display:block;}
-		.slide.amp-carousel-slide{text-align:center; margin:0 auto; display:block; padding:0 10px;}
-		.testimonial-img{margin:0 auto; display:block;}
-		#testimonials p{color:#fff; font-size:16px; line-height:1.6em; margin:15px 0;}
-		#testimonials span{color:#ccc; font-weight:700; font-size:18px;}
-		#footer .footer-middle h3{margin:20px 0 10px; color:#1a1a1a;}
-		@media (max-width:767px){
-			.carousel1{margin:0 auto; display:block; width:100%; height:575px;}
-			.slide.amp-carousel-slide img{width:120px; height:120px;}
-			.slide.amp-carousel-slide amp-fit-text{padding:0 30px;}
-			#testimonials p{font-size:14px;}
-			#footer .footer-top{padding-top:30px;}
-			#footer h3{margin:10px 0 5px;
-					
-		}
-		
-		@media (max-width:414px){
-			.slide.amp-carousel-slide amp-fit-text{padding:0;}
-			
-		}
-     </style>
-     <script type="application/ld+json">
-		{ "@context": "http://schema.org", "@type": "Eluminous Technologies Pvt. Ltd.", "headline": "Web development Services | Mobile App Development | Business Intelligence Services | Virtual Assistant &amp; SEO Services",
-		"datePublished": "2018-08-07T12:02:41Z", "image": ["logo-eluminous-technologies.png"] } 
-     </script>
-     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-     <script async src="https://cdn.ampproject.org/v0.js"></script>
+     
+	<script async src="https://cdn.ampproject.org/v0.js"></script>
      <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
      <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
      <script async custom-element="amp-lightbox" src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js"></script>
@@ -64,7 +21,86 @@
      <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
      <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
      <script async custom-element="amp-anim" src="https://cdn.ampproject.org/v0/amp-anim-0.1.js"></script>
-     <script async custom-element="amp-fit-text" src="https://cdn.ampproject.org/v0/amp-fit-text-0.1.js"></script>
+     <script async custom-element="amp-fit-text" src="https://cdn.ampproject.org/v0/amp-fit-text-0.1.js"></script>     
+  	<script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js"></script>
+  	<script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
+     <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
+     <script async custom-element="amp-image-lightbox" src="https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js"></script>
+          
+     <link rel="canonical" href="https://eluminoustechnologies.com">
+     <link rel="icon" href="images/favicon.ico" />
+     <link rel="apple-touch-icon" href="images/favicon-144.ico" />
+     <link href="https://fonts.googleapis.com/css?family=Roboto:200,300,400,500,700" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet" />
+<style amp-custom>
+<?php readfile( getcwd() . "/css/stylesheet.css"); ?>
+section h2.white-text, section h6.white-text, #what-we-do .card h3.white-text{color:#fff;}
+#placeholderbox{background:#fefefe;}
+.blog h2{margin:0px 0 20px; font-size:22px; color:#4b4b4b;}
+.blog h3{margin:0; font-size:18px; color:#4b4b4b; padding:6px 12px 6px;}
+.blog p{margin-bottom:10px;}	
+
+.listview{margin:40px 0 20px;}
+.accordianview{margin:0 0 15px;}
+.section-box{padding:15px 15px;}
+.imagelightbox{ padding:15px 15px; margin:0 auto 20px; text-align:center;}
+
+
+
+	
+#amp-list-placeholder div[role=list]{margin:0 auto;}
+#amp-list-placeholder .products{display:inline-block; text-align:center; border-radius:2px; margin:0 0 15px; position:relative; }
+#amp-list-placeholder .products amp-img{margin-bottom:16px; box-shadow:0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23); background:#fff; border-radius:2px;}
+#amp-list-placeholder ul.results{list-style:none; overflow:auto; margin:0; padding:0; }
+#amp-list-placeholder ul.results li{height:100px; background:#fff; border-radius:2px; margin-bottom:15px; position:relative; box-shadow:0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23); display:inline-block; }
+#amp-list-placeholder div[placeholder] ul.results li{background:linear-gradient(90deg, rgba(211, 211, 211, 0) 0, rgba(211, 211, 211, 0.8) 50%, rgba(211, 211, 211, 0) 100%), linear-gradient(#cccccc 100%, transparent 0), linear-gradient(#cccccc 100%, transparent 0), linear-gradient(#cccccc 100%, transparent 0), linear-gradient(#cccccc 100%, transparent 0); background-size:200px 100px, 150px 100px, 100px 10px,  100px 10px, 100px 10px; background-position:-150% 0, 0 0, 166px 4px, 166px 29px, 166px 53px; background-repeat:no-repeat; -webkit-animation:loading 1.5s infinite; animation:loading 1.5s infinite;}
+@-webkit-keyframes loading{to{background-position:350% 0, 0 0, 166px 4px, 166px 29px, 166px 53px;}}		
+@keyframes loading{to{background-position:350% 0, 0 0, 166px 4px, 166px 29px, 166px 53px;}}
+@media (max-width:992px){
+	#header .container, #what-we-do .container, .container{max-width:none;}
+	.social{margin-right:15px;}
+	
+}
+@media (max-width:767px){
+	amp-video{margin:10px auto;}	
+}
+.carousel1{margin:0 auto; display:block;}
+.slide.amp-carousel-slide{text-align:center; margin:0 auto; display:block; padding:0 10px;}
+.testimonial-img{margin:0 auto; display:block;}
+#testimonials p{color:#fff; font-size:16px; line-height:1.6em; margin:15px 0;}
+#testimonials span{color:#ccc; font-weight:700; font-size:18px;}
+#footer .footer-middle h3{margin:20px 0 10px; color:#1a1a1a;}
+@media (max-width:767px){
+	.carousel1{margin:0 auto; display:block; width:100%; height:575px;}
+	.slide.amp-carousel-slide img{width:120px; height:120px;}
+	.slide.amp-carousel-slide amp-fit-text{padding:0 30px;}
+	#testimonials p{font-size:14px;}
+	#footer .footer-top{padding-top:30px;}
+	#footer h3{margin:10px 0 5px;
+			
+}
+
+@media (max-width:414px){
+	.slide.amp-carousel-slide amp-fit-text{padding:0;}
+	
+}
+
+#amp-list-placeholder div[role=list]{margin:1rem;}
+#amp-list-placeholder .products{display:inline-block; text-align:center; height:100px; box-shadow:0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23); background:#fff; border-radius:2px; margin-bottom:15px; position:relative; }
+#amp-list-placeholder .products amp-img{float:left; margin-right:16px; }
+#amp-list-placeholder ul.results{list-style:none; overflow:auto; margin:0; padding:0; }
+#amp-list-placeholder ul.results li{height:100px; background:#fff; border-radius:2px; margin-bottom:15px; position:relative; box-shadow:0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23); display:inline-block; }
+#amp-list-placeholder div[placeholder] ul.results li{background:linear-gradient(90deg, rgba(211, 211, 211, 0) 0, rgba(211, 211, 211, 0.8) 50%, rgba(211, 211, 211, 0) 100%),
+	   linear-gradient(#cccccc 100%, transparent 0), linear-gradient(#cccccc 100%, transparent 0), linear-gradient(#cccccc 100%, transparent 0), linear-gradient(#cccccc 100%, transparent 0); background-size:200px 100px, 150px 100px, 100px 10px,  100px 10px, 100px 10px; background-position:-150% 0, 0 0, 166px 4px, 166px 29px, 166px 53px; background-repeat:no-repeat; -webkit-animation:loading 1.5s infinite; animation:loading 1.5s infinite;}
+@-webkit-keyframes loading{to{background-position:350% 0, 0 0, 166px 4px, 166px 29px, 166px 53px;}}
+@keyframes loading{to{background-position:350% 0, 0 0, 166px 4px, 166px 29px, 166px 53px;}}
+
+</style>
+<script type="application/ld+json">
+	{ "@context": "http://schema.org", "@type": "Eluminous Technologies Pvt. Ltd.", "headline": "Web development Services | Mobile App Development | Business Intelligence Services | Virtual Assistant &amp; SEO Services",
+	"datePublished": "2018-08-07T12:02:41Z", "image": ["logo-eluminous-technologies.png"] } 
+</script>
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 </head>
 <body>
 <header id="header">
